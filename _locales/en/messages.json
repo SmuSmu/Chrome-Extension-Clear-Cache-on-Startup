@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Clear Cache on Startup",
+    "description": "This extension will clear the Browser Cache on every start of Chrome."
+  },
+  "appDesc": {
+    "message": "This extension will clear the Browser Cache on every start of Chrome..", 
+    "description":"This extension will clear the Browser Cache on every start of Chrome..."
+  }
+}

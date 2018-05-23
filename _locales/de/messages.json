@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "lösche Cache beim Start",
+    "description": "Diese Erweiterung löscht den Browser Cache beim Start von Chrome."
+  },
+  "appDesc": {
+    "message": "Diese Erweiterung löscht den Browser Cache beim Start von Chrome..", 
+    "description":"Diese Erweiterung löscht den Browser Cache beim Start von Chrome..."
+  }
+}
